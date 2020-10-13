@@ -1,0 +1,27 @@
+// Ex13
+// (just a piece of code)
+"abilities": [
+    {
+    "ability": {
+    "name": "damp",
+    "url": "https://pokeapi.co/api/v2/ability/6/"
+    },
+    "is_hidden": false,
+    "slot": 1
+    },
+    {
+    "ability": {
+    "name": "cloud-nine",
+    "url": "https://pokeapi.co/api/v2/ability/13/"
+    },
+    "is_hidden": false,
+    "slot": 2
+    },
+    {
+    "ability": {
+    "name": "swift-swim",
+    "url": "https://pokeapi.co/api/v2/ability/33/"
+    },
+    "is_hidden": true,
+    "slot": 3
+    }

@@ -1,0 +1,11 @@
+//Ex3
+//3.1 Datatype of outermost layer: object
+//3.2: Hits property is array
+//3.3
+// let n = jobSearch['hits'];
+// console.log((n[0].benefits));
+// console.log((n[0].jobTitle));
+// console.log((n[0]).locations);
+// console.log((n[0].jobSalary));
+// console.log((n[0].skills));
+// console.log((n[0].jobRequirement));
